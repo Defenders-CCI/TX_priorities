@@ -1,0 +1,217 @@
+rand,select,common_name,scientific_name,group,state_status,federal_status,global_rank,state_rank,global_rank_2,plan_date,rpn,fws_exp,other_fed_exp,state_exp,total_exp,years_rep,max_exp,median_exp,rpn_sort
+0.798374525,0,Austin Blind Salamander,Eurycea waterlooensis,Amphibian,Endangered,Endangered,G1,S1,1,,2C,115000,5973,0,120973,3,75550,32223,2
+0.707018439,0,Barton Springs Salamander,Eurycea sosorum,Amphibian,Endangered,Endangered,G1,S1,1,2005/08/29 00:00:00,2C,2882133,786338,59923,3728394,15,1884500,93850,2
+0.216164862,0,Black-spotted Newt,Notophthalmus meridionalis,Amphibian,Threatened,Not listed,G1,S2,1,,,,,,,,,,
+0.15176931,0,Blanco Blind Salamander,Eurycea robusta,Amphibian,Threatened,Not listed,G1Q,S1,1,,,,,,,,,,
+0.854510605,0,Cascade Caverns Salamander,Eurycea latitans,Amphibian,Threatened,Not listed,G3,S1,3,,,,,,,,,,
+0.460408955,0,Comal Blind Salamander,Eurycea tridentifera,Amphibian,Threatened,Not listed,G1,S1,1,,,,,,,,,,
+0.336198065,0,Georgetown Salamander,Eurycea naufragia,Amphibian,,Threatened,G1,S1,1,,UNK,166000,49190,0,215190,2,174590,107595,
+0.280702241,0,Houston Toad,Anaxyrus houstonensis,Amphibian,Endangered,Endangered,G1,S1,1,,,,,,,,,,
+0.964579265,0,Jollyville Salamander,Eurycea tonkawae,Amphibian,,Threatened,G1,S2S3,1,,UNK,308000,75150,0,383150,3,250550,99400,
+0.249488961,0,Mexican Burrowing Toad,Rhinophrynus dorsalis,Amphibian,Threatened,Not listed,G5,S2,5,,,,,,,,,,
+0.797918011,0,Mexican Treefrog,Smilisca baudinii,Amphibian,Threatened,Not listed,G5,S3,5,,,,,,,,,,
+0.930822747,0,Salado Salamander,Eurycea chisholmensis,Amphibian,,Threatened,G1,S1,1,,UNK,47500,3776,0,51276,2,42576,25638,
+0.123634043,1,San Marcos Salamander,Eurycea nana,Amphibian,Threatened,Threatened,G1,S1,1,1996/02/14 00:00:00,2C,808896,33389,63933,906218,15,232499,26605,2
+0.245803966,0,Sheep Frog,Hypopachus variolosus,Amphibian,Threatened,Not listed,G5,S2,5,,,,,,,,,,
+0.32639972,0,South Texas Siren (large form),Siren sp. 1,Amphibian,Threatened,Not listed,GNRQ,S2,5.5,,,,,,,,,,
+0.22542123,0,Texas Blind Salamander,Eurycea rathbuni,Amphibian,Endangered,Endangered,G1,S1,1,,,,,,,,,,
+0.617886025,0,White-lipped Frog,Leptodactylus fragilis,Amphibian,Threatened,Not listed,G5,S1,5,,,,,,,,,,
+0.079659289,1,Arizona Botteri's Sparrow,Peucaea botterii arizonae,Bird,Threatened,Not listed,G4T4,S1B,4,,,,,,,,,,
+0.490856932,0,Attwater's Greater Prairie Chicken,Tympanuchus cupido attwateri,Bird,Endangered,Endangered,G4T1,S1B,4,2010/03/17 00:00:00,6,7542459,829082,485571,8857112,15,1472559,376123,6
+0.03707752,1,Bachman's Sparrow,Aimophila aestivalis,Bird,Threatened,Not listed,G3,S3B,3,,,,,,,,,,
+0.668369629,0,Bald Eagle,Haliaeetus leucocephalus,Bird,Threatened,Not listed,G5,"S3B,S3N",5,,,16855408,46693050,8777116,72325574,12,13462328,7251633.5,
+0.160346926,0,Black-capped Vireo,Vireo atricapilla,Bird,Endangered,"Endangered, Proposed for Delisting",G3,S2B,3,1991/09/30 00:00:00,8,4436915,16290764,512940,21240619,15,4606463,1127323,8
+0.610367538,0,Cactus Ferruginous Pygmy-owl,Glaucidium brasilianum cactorum,Bird,Threatened,Not listed,G5T3,S3B,5,,,2001685,1406663,562000,3970348,5,1607900,657590,
+0.651898262,0,Common Black Hawk,Buteogallus anthracinus,Bird,Threatened,Not listed,G4G5,S2B,4.5,,,,,,,,,,
+0.542287844,0,Eskimo Curlew,Numenius borealis,Bird,Endangered,Endangered,GH,SH,5.5,,5,22600,455558,11254,489412,15,350090,5400,5
+0.312097116,0,Golden-cheeked Warbler,Dendroica chrysoparia,Bird,Endangered,Endangered,G2,S2B,2,1992/09/30 00:00:00,2C,5980468,22427348,266110,28673926,15,4471850,1553371,2
+0.549413367,0,Gray Hawk,Buteo plagiatus,Bird,Threatened,Not listed,GNR,S2B,5.5,,,,,,,,,,
+0.494908014,0,Interior Least Tern,Sterna antillarum athalassos,Bird,Endangered,Endangered,G4T2Q,S1B,4,,,,,,,,,,
+0.162384698,0,Mexican Spotted Owl,Strix occidentalis lucida,Bird,Threatened,Threatened,G3G4T3T4,S1B,3.5,2012/12/18 00:00:00,9C,3759607,52794878,758354,57312839,15,6579778,3560723,9
+0.012147094,1,Northern Aplomado Falcon,Falco femoralis septentrionalis,Bird,Endangered,Endangered,G4T2,S1,4,1990/06/08 00:00:00,3,2265600,13341806,233905,15841311,15,1539057,495328,3
+0.050655793,1,Northern Beardless-tyrannulet,Camptostoma imberbe,Bird,Threatened,Not listed,G5,S3B,5,,,,,,,,,,
+0.146607413,1,Peregrine Falcon,Falco peregrinus anatum,Bird,Threatened,Not listed,G4T4,S2B,4,,,,,,,,,,
+0.379542229,0,Piping Plover,Charadrius melodus,Bird,Threatened,Threatened,G3,S2,3,,2C,18210745,120423724,5948312,144582781,15,18108135,3642228,2
+0.69985969,0,Piping Plover,Charadrius melodus,Bird,Threatened,Threatened,G3,S2,3,2003/09/08 00:00:00,2C,18210745,120423724,5948312,144582781,15,18108135,3642228,2
+0.267785445,0,Red-cockaded Woodpecker,Picoides borealis,Bird,Endangered,Endangered,G3,S2B,3,2003/01/27 00:00:00,8C,32569085,258196451,9742270,300507806,15,37900480,17915391,8
+0.274813319,0,Red-crowned Parrot,Amazona viridigenalis,Bird,,Candidate,G2,S2,2,,,,,,,,,,
+0.224782784,0,Reddish Egret,Egretta rufescens,Bird,Threatened,Not listed,G4,S3B,4,,,,,,,,,,
+0.417826598,0,Rose-throated Becard ,Pachyramphus aglaiae,Bird,Threatened,Not listed,G4G5,SNA,4.5,,,,,,,,,,
+0.640444777,0,Rufa Red Knot,Calidris canutus rufa,Bird,,Threatened, G4,S3N,5.5,,,464582,410159,2110,876851,1,876851,876851,
+0.45167112,0,Sooty Tern,Sterna fuscata,Bird,Threatened,Not listed,G5,S2B,5,,,,,,,,,,
+0.596893327,0,Southwestern Willow Flycatcher,Empidonax traillii extimus,Bird,Endangered,Endangered,G5T2,S1B,5,2002/08/30 00:00:00,3C,11374943,185197428,2102799,198675170,15,23157345,12297617,3
+0.858130379,0,Swallow-tailed Kite,Elanoides forficatus,Bird,Threatened,Not listed,G5,S2B,5,,,,,,,,,,
+0.224356504,0,Texas Botteri's Sparrow,Aimophila botterii texana,Bird,Threatened,Not listed,G4T4,S3B,4,,,,,,,,,,
+0.727765619,0,Tropical Parula,Parula pitiayumi,Bird,Threatened,Not listed,G5,S3B,5,,,,,,,,,,
+0.419919775,0,Western Yellow-billed Cuckoo,Coccyzus americanus occidentails,Bird,,Threatened,G5T2T3,S4S5B,5,,,,,,,,,,
+0.952928207,0,White-faced Ibis,Plegadis chihi,Bird,Threatened,Not listed,G5,S4B,5,,,,,,,,,,
+0.333353532,0,White-tailed Hawk,Buteo albicaudatus,Bird,Threatened,Not listed,G4G5,S4B,4.5,,,,,,,,,,
+0.069047941,1,Whooping Crane,Grus americana,Bird,Endangered,Endangered,G1,S1,1,2007/03/30 00:00:00,2C,15871475,42518718,1984912,60375105,15,5987523,791512,2
+0.430684597,0,Wood Stork,Mycteria americana,Bird,Threatened,Not listed,G4,"SHB,S2N",4,1997/01/27 00:00:00,5C,7776477,21579475,451413,29807365,15,6872943,1622372,5
+0.479643135,0,Zone-tailed Hawk,Buteo albonotatus,Bird,Threatened,Not listed,G4,S3B,4,,,,,,,,,,
+0.381068768,0,Arkansas River Shiner,Notropis girardi,Fish,Threatened,Threatened,G2,S2,2,2008/09/12 00:00:00,5C,1001630,1255380,73623,2330633,15,273082,131510,5
+0.406956385,0,Big Bend Gambusia,Gambusia gaigei,Fish,Endangered,Endangered,G1,S1,1,1984/09/19 00:00:00,5,276748,112900,8950,398598,15,65772,17500,5
+0.082552022,1,Blackside Darter,Percina maculata,Fish,Threatened,Not listed,G5,S1,5,,,,,,,,,,
+0.145861387,1,Blotched Gambusia,Gambusia senilis,Fish,Threatened,Not listed,G3G4,SX,3.5,,,,,,,,,,
+0.192630002,0,Blue Sucker,Cycleptus elongatus,Fish,Threatened,Not listed,G3G4,S3,3.5,,,,,,,,,,
+0.491829759,0,Bluehead Shiner,Pteronotropis hubbsi,Fish,Threatened,Not listed,G3,S1,3,,,,,,,,,,
+0.889423695,0,Bluntnose Shiner,Notropis simus,Fish,Threatened,Not listed,G2,SX,2,1992/09/30 00:00:00,3,,,,,,,,3
+0.197675621,0,Chihuahua Shiner,Notropis chihuahua,Fish,Threatened,Not listed,G3,S2,3,,,,,,,,,,
+0.965875336,0,Clear Creek Gambusia,Gambusia heterochir,Fish,Endangered,Endangered,G1,S1,1,1982/01/14 00:00:00,2,374113,0,8950,383063,13,222500,6300,2
+0.879540264,0,Comanche Springs Pupfish,Cyprinodon elegans,Fish,Endangered,Endangered,G1,S1,1,1981/09/02 00:00:00,11,1152215,258000,160943,1571158,15,228625,75000,11
+0.716885316,0,Conchos Pupfish,Cyprinodon eximius,Fish,Threatened,Not listed,G3G4,S1,3.5,,,,,,,,,,
+0.498800841,0,Creek Chubsucker,Erimyzon oblongus,Fish,Threatened,Not listed,G5,S2S3,5,,,,,,,,,,
+0.277394293,0,Devils River Minnow,Dionda diaboli,Fish,Threatened,Threatened,G1,S1,1,2005/08/22 00:00:00,2,1597275,7922,153097,1758294,15,501577,28476,2
+0.566341208,0,Fountain Darter,Etheostoma fonticola,Fish,Endangered,Endangered,G1,S1,1,1996/02/14 00:00:00,2C,2827173,133359,5900,2966432,14,655364,80900,2
+0.008621147,1,Leon Springs Pupfish,Cyprinodon bovinus,Fish,Endangered,Endangered,G1,S1,1,1985/08/14 00:00:00,5,397732,500,157303,555535,15,92150,27600,5
+0.8806997,0,Mexican blind catfish,Prietella phreatophila,Fish,Endangered,Endangered,G1,S1,1,,,,,,,,,,
+0.047691441,1,Mexican Goby,Ctenogobius claytonii,Fish,Threatened,Not listed,GNR,S1,5.5,,,,,,,,,,
+0.437898538,0,Mexican Stoneroller,Campostoma ornatum,Fish,Threatened,Not listed,G3G4,S1,3.5,,,,,,,,,,
+0.830648921,0,Opossum Pipefish,Microphis brachyurus,Fish,Threatened,Not listed,G4G5,S1N,4.5,,,,,,,,,,
+0.307877502,0,Paddlefish,Polyodon spathula,Fish,Threatened,Not listed,G4,S3,4,,,,,,,,,,
+0.808884211,0,Pecos Gambusia,Gambusia nobilis,Fish,Endangered,Endangered,G2,S2,2,1983/05/09 00:00:00,2,346031,334100,52117,732248,15,183700,38200,2
+0.612776598,0,Pecos Pupfish,Cyprinodon pecosensis,Fish,Threatened,Not listed,G2,S1,2,,,,,,,,,,
+0.570158583,0,Proserpine Shiner,Cyprinella proserpina,Fish,Threatened,Not listed,G3,S2,3,,,,,,,,,,
+0.714134743,0,Rio Grande Chub,Gila pandora,Fish,Threatened,Not listed,G3,S1,3,,,,,,,,,,
+0.444596384,0,Rio Grande Darter,Etheostoma grahami,Fish,Threatened,Not listed,G2G3,S2,2.5,,,,,,,,,,
+0.376984955,0,Rio Grande Silvery Minnow,Hybognathus amarus,Fish,Endangered,Endangered,G1,SX,1,2010/01/15 00:00:00,2C,10739776,135044959,518506,146303241,15,12451853,8357200,2
+0.85913939,0,River Goby,Awaous banana,Fish,Threatened,Not listed,G5,S1,5,,,,,,,,,,
+0.744910652,0,San Felipe Gambusia,Gambusia clarkhubbsi,Fish,Threatened,Not listed,G1,S1,1,,,,,,,,,,
+0.115578796,1,San Marcos Gambusia,Gambusia georgei,Fish,Endangered,Endangered,GX,SX,5.5,1996/02/14 00:00:00,5C,53100,17573,8950,79623,15,50000,1020,5
+0.225344505,0,Sharpnose Shiner,Notropis oxyrhynchus,Fish,,Endangered,G3,S3,3,,UNK,64000,2450,0,66450,2,56600,33225,
+0.954458722,0,Shovelnose Sturgeon,Scaphirhynchus platorynchus,Fish,Threatened,Not listed,G4,S2,4,,,29000,271634,0,300634,5,92547,63000,
+0.775262282,0,Smalleye Shiner,Notropis buccula,Fish,,Endangered,G2,S2,2,,UNK,64000,4900,0,68900,2,56700,34450,
+0.352052104,0,Smalltooth Sawfish,Pristis pectinata,Fish,Endangered,Endangered,G1G3,SNR,2,,,1300,10323589,119840,10444729,13,1555876,722706.5,
+0.936821208,0,Toothless Blindcat,Trogloglanis pattersoni,Fish,Threatened,Not listed,G1G2,S1,1.5,,,,,,,,,,
+0.590108663,0,Widemouth Blindcat,Satan eurystomus,Fish,Threatened,Not listed,G1G2,S1,1.5,,,,,,,,,,
+0.493649002,0,A Ground Beetle,Rhadine exilis,Invertebrate,,Endangered,G3,S1,3,2011/09/12 00:00:00,2C,297000,1286884,14012,1597896,14,262600,90276,2
+0.824448827,0,A Ground Beetle,Rhadine infernalis,Invertebrate,,Endangered,G2G3,S1,2.5,2011/09/12 00:00:00,2C,441500,1567665,19114,2028279,15,417345,109252,2
+0.220498508,0,American Burying Beetle,Nicrophorus americanus,Invertebrate,,Endangered,G2G3,S1,2.5,1991/09/27 00:00:00,5C,4810216,8875201,1165880,14851297,15,2140182,639848,5
+0.258651768,0,Bone Cave Harvestman,Texella reyesi,Invertebrate,,Endangered,G2G3,S2,2.5,1994/08/25 00:00:00,2C,1655600,1586106,21051,3262757,15,1361780,28350,2
+0.099461985,1,Bracken Bat Cave Meshweaver,Cicurina venii,Invertebrate,,Endangered,G1,S1,1,2011/09/12 00:00:00,2C,371498,415345,10151,796994,14,342345,8985.5,2
+0.276062383,0,Coffin Cave Mold Beetle,Batrisodes texanus,Invertebrate,,Endangered,G1G2,S1,1.5,1994/08/25 00:00:00,2C,209115,1334376,12014,1555505,15,1310000,4240,2
+0.385951708,0,Cokendolpher Cave Harvestman,Texella cokendolpheri,Invertebrate,,Endangered,G1,S1,1,2011/09/12 00:00:00,5C,121574,8420,11226,141220,12,75000,7890,5
+0.544995607,0,Comal Springs Dryopid Beetle ,Stygoparnus comalensis,Invertebrate,Endangered,Endangered,G1G2,S1,1.5,1996/02/14 00:00:00,1C,583008,21978,16782,621768,15,254886,19659,1
+0.028673986,1,Comal Springs Riffle Beetle,Heterelmis comalensis,Invertebrate,Endangered,Endangered,G1,S1,1,1996/02/14 00:00:00,2C,665788,45694,24482,735964,15,207377,38359,2
+0.58900904,0,Diamond Y Spring Snail,Pseudotryonia adamantina,Invertebrate,Endangered,Endangered,G1,S1,1,,UNK,20000,310,0,20310,1,20310,20310,
+0.956482927,0,Diminuitie Amphipod,Gammarus hyalleloides,Invertebrate,Endangered,Endangered,G1,S1,1,,UNK,27000,3000,0,30000,3,20500,7500,
+0.164842342,0,False Spike,Quadrula mitchelli,Invertebrate,Threatened,Not listed,GH,SH,5.5,,,,,,,,,,
+0.24109949,0,Golden Orb,Quadrula aurea,Invertebrate,Threatened,Candidate,G1,S2,1,,,,,,,,,,
+0.869287947,0,Gonzales Springsnail,Tryonia circumstriata,Invertebrate,Endangered,Endangered,G1,S1,1,,UNK,,,,,,,,
+0.334347749,0,Government Canyon Bat Cave Meshweaver,Cicurina vespera,Invertebrate,,Endangered,G1,S1,1,2011/09/12 00:00:00,2C,355678,31380,12985,400043,15,204700,10085,2
+0.607762422,0,Government Canyon Bat Cave Spider,Tayshaneta microps,Invertebrate,,Endangered,G1,S1,1,,,,,,,,,,
+0.94337527,0,Helotes Mold Beetle,Batrisodes venyivi,Invertebrate,,Endangered,G1,S1,1,2011/09/12 00:00:00,2C,334285,12480,10451,357216,14,202600,9720,2
+0.081586672,1,Kretschmarr Cave Mold Beetle,Texamaurops reddelli,Invertebrate,,Endangered,G1G2,S1,1.5,1994/08/25 00:00:00,2C,88566,30320,18454,137340,15,30500,5000,2
+0.316790354,0,Louisiana Pigtoe,Pleurobema riddellii,Invertebrate,Threatened,Not listed,G1G2,S1,1.5,,,,,,,,,,
+0.021953344,1,Madla Cave Meshweaver,Cicurina madla,Invertebrate,,Endangered,G1,S1,1,2011/09/12 00:00:00,2C,362281,1589715,13410,1965406,15,342545,109710,2
+0.933854648,0,Mexican Fawnsfoot,Truncilla cognata,Invertebrate,Threatened,Not listed,G1Q,S1,1,,,,,,,,,,
+0.985445257,0,Peck's Cave Amphipod,Stygobromus pecki,Invertebrate,Endangered,Endangered,G1G2,S1,1.5,,,,,,,,,,
+0.457545565,0,Pecos Amphipod,Gammarus pecos,Invertebrate,Endangered,Endangered,G1,S1,1,,UNK,1000,5000,1400,7400,2,4900,3700,
+0.88430379,0,Pecos Assiminea,Assiminea pecos,Invertebrate,Endangered,Endangered,G1,S1,1,,5,153170,148670,14750,316590,11,74127,13650,5
+0.954713026,0,Phantom Cave Snail,Pyrgulopsis texana,Invertebrate,Endangered,Endangered,G1,S1,1,,UNK,1000,0,0,1000,1,1000,1000,
+0.167752939,0,Phantom Spring Snail,Tryonia cheatumi,Invertebrate,Endangered,Endangered,G1,S1,1,,UNK,20000,2910,0,22910,3,20310,2500,
+0.089620982,1,Reddell Harvestman,Texella reddelli,Invertebrate,,Endangered,G2G3,S2,2.5,1994/08/25 00:00:00,2C,64575,70950,14251,149776,15,33350,5200,2
+0.158283406,0,Robber Baron Cave Meshweaver,Cicurina baronia,Invertebrate,,Endangered,G1,S1,1,2011/09/12 00:00:00,5C,360569,46190,13026,419785,15,203100,10098,5
+0.222557096,0,Salina Mucket,Potamilus metnecktayi,Invertebrate,Threatened,Not listed,G1,S1,1,,,,,,,,,,
+0.222571571,0,Sandbank Pocketbook,Lampsilis satura,Invertebrate,Threatened,Not listed,G2,S1,2,,,,,,,,,,
+0.302651324,0,Smooth Pimpleback,Quadrula houstonensis,Invertebrate,Threatened,Candidate,G2,S1S2,2,,,,,,,,,,
+0.417514094,0,Southern Hickorynut,Obovaria jacksoniana,Invertebrate,Threatened,Not listed,G2,S1,2,,,,,,,,,,
+0.331245347,0,Texas Fatmucket,Lampsilis bracteata,Invertebrate,Threatened,Candidate,G1,S1,1,,,,,,,,,,
+0.801356771,0,Texas Fawnsfoot,Truncilla macrodon,Invertebrate,Threatened,Candidate,G2Q,S1,2,,,,,,,,,,
+0.404866349,0,Texas Heelsplitter,Potamilus amphichaenus,Invertebrate,Threatened,Not listed,G1G2,S1,1.5,,,,,,,,,,
+0.65835318,0,Texas Hornshell,Popenaias popeii,Invertebrate,Threatened,Proposed Endangered,G1,S1,1,,,,,,,,,,
+0.746012483,0,Texas Pigtoe,Fusconaia askewi,Invertebrate,Threatened,Not listed,G2G3,S2S3,2.5,,,,,,,,,,
+0.365802231,0,Texas Pimpleback,Quadrula petrina,Invertebrate,Threatened,Candidate,G2,S1,2,,,,,,,,,,
+0.351452907,0,Tooth Cave Ground Beetle,Rhadine persephone,Invertebrate,,Endangered,G1G2,S1,1.5,1994/08/25 00:00:00,8C,124758,31917,13352,170027,14,50000,6183.5,8
+0.4341186,0,Tooth Cave Pseudoscorpion,Tartarocreagris texana,Invertebrate,,Endangered,G1G2,S1,1.5,1994/08/25 00:00:00,2C,101041,37320,15326,153687,15,50000,5598,2
+0.204331721,0,Tooth Cave Spider,Tayshaneta myopica,Invertebrate,,Endangered,G1G2,S1,1.5,,,,,,,,,,
+0.80253351,0,Triangle Pigtoe,Fusconaia lananensis,Invertebrate,Threatened,Not listed,G1Q,S1,1,,,,,,,,,,
+0.408650138,0,Warton Cave Meshweaver,Cicurina wartoni,Invertebrate,,Candidate,G1,S1,1,,,,,,,,,,
+0.465506163,0,Atlantic Spotted Dolphin,Stenella frontalis,Mammal,Threatened,Not listed,G5,S1,5,,,,,,,,,,
+0.274559781,0,Black Bear,Ursus americanus,Mammal,Threatened,Not listed,G5,S3,5,1995/09/27 00:00:00,9,,,,,,,,9
+0.483326649,0,Coues' Rice Rat,Oryzomys couesi,Mammal,Threatened,Not listed,G5T2T4,S2,5,,,,,,,,,,
+0.993129885,0,Dwarf Sperm Whale,Kogia simus,Mammal,Threatened,Not listed,G4,S1,4,,,,,,,,,,
+0.189644164,0,False Killer Whale,Pseudorca crassidens,Mammal,Threatened,Not listed,G4,S1,4,,,0,704890,0,704890,2,607149,352445,
+0.172377731,0,Finback Whale,Balaenoptera physalus,Mammal,Endangered,Endangered,G3G4,S1,3.5,,,3472,17441964,318412,17763848,15,3814423,877306,
+0.256002078,0,Gervais' Beaked Whale,Mesoplodon europaeus,Mammal,Threatened,Not listed,G3,S1,3,,,,,,,,,,
+0.978044446,0,Goose-beaked Whale,Ziphius cavirostris,Mammal,Threatened,Not listed,G4,S1,4,,,,,,,,,,
+0.183275435,0,Gray Wolf,Canis lupus,Mammal,Endangered,Endangered,G4G5,SX,4.5,1982/09/15 00:00:00,3C,61073007,41947521,17781285,120801813,15,6954633,1560262,3
+0.155521258,0,Humpback Whale,Megaptera novaeangliae,Mammal,Endangered,Endangered,G4,SNR,4,,,87823,55360292,347870,55795985,15,7921457,4033919,
+0.137242723,1,Jaguar,Panthera onca,Mammal,Endangered,Endangered,G3,SH,3,,5C,1662978,1980508,447980,4091466,15,803685,196600,5
+0.367474251,0,Jaguarundi,Herpailurus yaguarondi,Mammal,Endangered,Endangered,G4,S1,4,,,,,,,,,,
+0.887837162,0,Killer Whale,Orcinus orca,Mammal,Threatened,Not listed,G4G5,S1,4.5,,,41006,18829478,220700,19091184,9,3990517,2314206,
+0.405875012,0,Louisiana Black Bear,Ursus americanus luteolus,Mammal,Threatened,Not listed,G5T2,SNA,5,1995/09/27 00:00:00,9,4683736,33073520,1053349,38810605,15,5613874,2027240,9
+0.828145187,0,Mexican Long-nosed Bat,Leptonycteris nivalis,Mammal,Endangered,Endangered,G2G3,S1,2.5,1994/09/08 00:00:00,5,139200,931999,55405,1126604,15,197100,51682,5
+0.397155807,0,Ocelot,Leopardus pardalis,Mammal,Endangered,Endangered,G4,S1,4,,,,,,,,,,
+0.918614484,0,Palo Duro Mouse,Peromyscus truei comanche,Mammal,Threatened,Not listed,G5T2,S2,5,,,,,,,,,,
+0.463605365,0,Pygmy Killer Whale,Feresa attenuata,Mammal,Threatened,Not listed,G4,S1,4,,,,,,,,,,
+0.998521876,0,Pygmy Sperm Whale,Kogia breviceps,Mammal,Threatened,Not listed,G4,SNR,4,,,,,,,,,,
+0.996331042,0,Rafinesque's Big-eared Bat,Corynorhinus rafinesquii,Mammal,Threatened,Not listed,G3G4,S3,3.5,,,,,,,,,,
+0.774186022,0,Red Wolf,Canis rufus,Mammal,Endangered,Endangered,G1Q,SX,1,1990/10/26 00:00:00,5C,17035948,5237279,346046,22619273,15,3590255,620462.5,5
+0.36257363,0,Rough-toothed Dolphin,Steno bredanensis,Mammal,Threatened,Not listed,G4,S1,4,,,,,,,,,,
+0.860097384,0,Short-finned Pilot Whale,Globicephala macrorhynchus,Mammal,Threatened,Not listed,G5,S1,5,,,,,,,,,,
+0.226703712,0,Southern Yellow Bat,Lasiurus ega,Mammal,Threatened,Not listed,G5,S1,5,,,,,,,,,,
+0.015173074,1,Spotted Bat,Euderma maculatum,Mammal,Threatened,Not listed,G4,S2,4,,,,,,,,,,
+0.704631691,0,Texas Kangaroo Rat,Dipodomys elator,Mammal,Threatened,Not listed,G2,S1,2,,,,,,,,,,
+0.379324258,0,West Indian Manatee,Trichechus manatus,Mammal,Endangered,Endangered,G2,S1,2,,5C,29204489,49167433,63429310,141801232,15,14707167,9737769,5
+0.935718227,0,White-nosed Coati,Nasua narica,Mammal,Threatened,Not listed,G5,S2?,5,,,,,,,,,,
+0.004011291,1,Ashy Dogweed,Thymophylla tephroleuca,Plant,Endangered,Endangered,G2,S2,2,1988/07/29 00:00:00,5,144400,69534,33144,247078,15,46813,12000,5
+0.740503254,0,Black Lace Cactus,Echinocereus reichenbachii var. albertii,Plant,Endangered,Endangered,G5T1Q,S1,5,,,,,,,,,,
+0.797504694,0,Bracted Twistflower,Streptanthus bracteatus,Plant,,Candidate,G1G2,S1S2,1.5,,,,,,,,,,
+0.403963967,0,Bunched Cory Cactus,Coryphantha ramillosa ssp. ramillosa,Plant,Threatened,Threatened,G2G3T2T3,S2S3,2.5,,,,,,,,,,
+0.244688534,0,Chisos Mountains Hedgehog Cactus,Echinocereus chisoensis var. chisoensis,Plant,Threatened,Threatened,G2T1,S1,2,,,,,,,,,,
+0.661013875,0,Davis' Green Pitaya,Echinocereus davisii,Plant,Endangered,Endangered,G1,S1,1,,,,,,,,,,
+0.849191027,0,Earth Fruit,Geocarpon minimum,Plant,Threatened,Threatened,G2,S1,2,1993/07/26 00:00:00,13,952719,39068,115990,1107777,15,514400,20000,13
+0.555511629,0,Guadalupe Fescue,Festuca ligulata,Plant,,Endangered,G1,S1,1,,,,,,,,,,
+0.783100309,0,Johnston's Frankenia,Frankenia johnstonii,Plant,Delisted,Delisted,G3,S3,3,1988/05/24 00:00:00,14,378000,230081,62654,670735,15,233500,23700,14
+0.668182899,0,Hinckley's Oak,Quercus hinckleyi,Plant,Threatened,Threatened,G2,S2,2,1992/09/30 00:00:00,8,15305,100,13950,29355,12,7600,500,8
+0.354156277,0,Large-fruited Sand-verbena,Abronia macrocarpa,Plant,Endangered,Endangered,G2,S2,2,1992/09/30 00:00:00,8,137700,6050,157898,301648,15,91580,9900,8
+0.877492865,0,Little Aguja Pondweed,Potamogeton clystocarpus,Plant,Endangered,Endangered,G1,S1,1,1994/06/20 00:00:00,5,13600,0,13750,27350,12,6750,2000,5
+0.037402882,,Lloyd's Mariposa Cactus,Sclerocactus mariposensis,Plant,Threatened,Threatened,G2,S2,2,,,,,,,,,,
+0.07747634,,Navasota Ladies'-tresses,Spiranthes parksii,Plant,Endangered,Endangered,G3,S3,3,,,391200,438496,33539,863235,15,250680,37020,
+0.581097078,,Neches River Rose-mallow,Hibiscus dasycalyx,Plant,Threatened,Threatened,G1,S1,1,,UNK,36000,400,26255,62655,2,41555,31327.5,
+0.883434921,,Nellie's Cory Cactus,Escobaria minima,Plant,Endangered,Endangered,G1,S1,1,,,,,,,,,,
+0.674057142,,Pecos Sunflower,Helianthus paradoxus,Plant,Threatened,Threatened,G2,S1,2,2005/09/15 00:00:00,8,901334,326713,23334,1251381,15,282242,69400,8
+0.678607385,,Slender Rushpea,Hoffmannseggia tenella,Plant,Endangered,Endangered,G1S1,S1,1,1988/09/13 00:00:00,2,351250,98255,26850,476355,15,93100,24291,2
+0.165147098,,Sneed's Pincushion Cactus,Escobaria sneedii var. sneedii,Plant,Endangered,Endangered,G2T2,S2,2.5,,,,,,,,,,
+0.324266971,,South Texas Ambrosia,Ambrosia cheiranthifolia,Plant,Endangered,Endangered,G2,S2,2,,8,443002,389817,30816,863635,15,254100,47452,8
+0.579780443,,Star Cactus,Astrophytum asterias,Plant,Endangered,Endangered,G1,S1,1,2003/09/19 00:00:00,2C,926600,269114,401292,1597006,15,537156,53416,2
+0.845209473,,Terlingua Creek Cat's-eye,Cryptantha crassipes,Plant,Endangered,Endangered,G1,S1,1,1994/04/05 00:00:00,5C,9900,600,40474,50974,12,23640,1325,5
+0.535304096,,Texas Ayenia,Ayenia limitaris,Plant,Endangered,Endangered,G2,S1,2,2014/06/03 00:00:00,8C,605625,232470,23760,861855,15,273100,47965,8
+0.218695693,,Texas Golden Gladecress,Leavenworthia texana,Plant,Endangered,Endangered,G1,S1,1,,UNK,16500,300,0,16800,2,9600,8400,
+0.280170669,,Texas Poppy-mallow,Callirhoe scabriuscula,Plant,Endangered,Endangered,G2,S2,2,1985/03/29 00:00:00,5C,29050,20826,34896,84772,15,33080,2140,5
+0.120271209,,Texas Prairie Dawn,Hymenoxys texana,Plant,Endangered,Endangered,G2,S2,2,1990/04/13 00:00:00,5C,489200,891946,27345,1408491,15,213188,79170,5
+0.242868902,,Texas Snowbells,Styrax platanifolius spp. texanus,Plant,Endangered,Endangered,G3T1,S1,3,,,,,,,,,,
+0.021629103,,Texas Trailing Phlox,Phlox nivalis ssp. texensis,Plant,Endangered,Endangered,G4T2,S2,4,,,,,,,,,,
+0.73933439,,Texas Wild Rice,Zizania texana,Plant,Endangered,Endangered,G1,S1,1,1996/02/14 00:00:00,2C,3040752,48569,144290,3233611,15,674346,247550,2
+0.759566503,,Tobusch Fishhook Cactus,Sclerocactus brevihamatus ssp. tobuschii,Plant,Endangered,Endangered,G4T3,S3,4,,,,,,,,,,
+0.260065779,,Walker's Manioc,Manihot walkerae,Plant,Endangered,Endangered,G2,S1,2,1993/12/12 00:00:00,8C,308550,255199,29930,593679,15,255600,25000,8
+0.146004648,,White Bladderpod,Physaria pallida,Plant,Endangered,Endangered,G1,S1,1,,,,,,,,,,
+0.474021397,,Zapata Bladderpod,Physaria thamnophila,Plant,Endangered,Endangered,G1,S1,1,,,,,,,,,,
+0.045326166,,Alligator Snapping Turtle,Macrochelys temminckii,Reptile,Threatened,Not listed,G3G4,S3,3.5,,,,,,,,,,
+0.168888754,,Black-striped Snake,Coniophanes imperialis,Reptile,Threatened,Not listed,G4G5,S2,4.5,,,,,,,,,,
+0.397994452,,Brazos Water Snake,Nerodia harteri,Reptile,Threatened,Not listed,G2,S1,2,,,,,,,,,,
+0.832556478,,Cagle's Map Turtle,Graptemys caglei,Reptile,Threatened,Not listed,G3,S1,3,,,,,,,,,,
+0.245729796,,Chihuahuan Desert Lyre Snake,Trimorphodon vilkinsonii,Reptile,Threatened,Not listed,G4,S3,4,,,,,,,,,,
+0.053337788,,Chihuahuan Mud Turtle,Kinosternon hirtipes murrayi,Reptile,Threatened,Not listed,G5T5,S1,5,,,,,,,,,,
+0.658870748,,Green Sea Turtle,Chelonia mydas,Reptile,Threatened,Threatened,G3,S3,3,,1C,8734918,77656427,2801884,89193229,15,7593653,3071375,1
+0.334276421,,Green Sea Turtle,Chelonia mydas,Reptile,Threatened,Threatened,G3,S3,3,,1C,8734918,77656427,2801884,89193229,15,7593653,3071375,1
+0.831441466,,Hawksbill Sea Turtle,Eretmochelys imbricata,Reptile,Endangered,Endangered,G3,S2,3,,1C,7920876,50570152,2053147,60544175,15,6763446,3888053,1
+0.111970945,,Kemp's Ridley Sea Turtle,Lepidochelys kempii,Reptile,Endangered,Endangered,G1,S3,1,2011/09/22 00:00:00,2C,5523997,61511605,2359164,69394766,15,6664434,4461620,2
+0.281009005,,Leatherback Sea Turtle,Dermochelys coriacea,Reptile,Endangered,Endangered,G2,S1S2,2,,1,11914638,84294232,1747623,97956493,15,9992054,6900968,1
+0.880398581,,Loggerhead Sea Turtle,Caretta caretta,Reptile,Threatened,Threatened,G3,S4,3,1998/01/12 00:00:00,9C,15294618,99734040,5799774,120828432,15,11285625,5695531,9
+0.869588784,,Loggerhead Sea Turtle,Caretta caretta,Reptile,Threatened,Threatened,G3,S4,3,2008/12/31 00:00:00,9C,15294618,99734040,5799774,120828432,15,11285625,5695531,9
+0.754532741,,Louisiana Pine Snake,Pituophis ruthveni,Reptile,Threatened,Proposed Threatened,G2,S1,2,,,,,,,,,,
+0.594793902,,Mountain Short-horned Lizard,Phrynosoma hernandesi,Reptile,Threatened,Not listed,G5,S3,5,,,,,,,,,,
+0.122531378,,Northern Cat-eyed Snake,Leptodeira septentrionalis,Reptile,Threatened,Not listed,G5,S2,5,,,,,,,,,,
+0.872479327,,Northern Scarlet Snake,Cemophora coccinea copei,Reptile,Threatened,Not listed,G5T5,S3,5,,,,,,,,,,
+0.762505897,,Reticulate Collared Lizard,Crotaphytus reticulatus,Reptile,Threatened,Not listed,G3,S2,3,,,,,,,,,,
+0.816203588,,Reticulated Gecko,Coleonyx reticulatus,Reptile,Threatened,Not listed,G3,S3,3,,,,,,,,,,
+0.202267987,,Smooth Green Snake,Liochlorophis vernalis,Reptile,Threatened,Not listed,G5,SX,5,,,,,,,,,,
+0.842292979,,Speckled Racer,Drymobius margaritiferus,Reptile,Threatened,Not listed,G5,S1,5,,,,,,,,,,
+0.003182019,,Texas Horned Lizard,Phrynosoma cornutum,Reptile,Threatened,Not listed,G4G5,S4,4.5,,,,,,,,,,
+0.020251949,,Texas Indigo Snake,Drymarchon melanurus erebennus,Reptile,Threatened,Not listed,G5T4,S3,5,,,,,,,,,,
+0.289543055,,Texas Scarlet Snake,Cemophora coccinea lineri,Reptile,Threatened,Not listed,G5T2,S1S2,5,,,,,,,,,,
+0.096541119,,Texas Tortoise,Gopherus berlandieri,Reptile,Threatened,Not listed,G4,S2,4,,,,,,,,,,
+0.490175112,,Timber Rattlesnake,Crotalus horridus,Reptile,Threatened,Not listed,G4,S4,4,,,,,,,,,,
+0.825913644,,Trans-Pecos Black-headed Snake,Tantilla cucullata,Reptile,Threatened,Not listed,G3,S2,3,,,,,,,,,,
