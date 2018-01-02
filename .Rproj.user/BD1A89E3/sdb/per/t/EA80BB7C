@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"TXpriorities\"\ntheme: yeti\nnavbar:\n  title: \"Texas Prioritization\"\n  type: inverse\n  left:\n    - text: CCI-dev\n      href: https://cci-dev.org\n    - icon: fa-question-circle fa-lg\n      href: mailto:esa@defenders.org\n  right:\n    - icon: fa-github fa-lg\n      href: https://github.com/mjevans26/ESApprops\n    - text: Defenders\n      href: http://www.defenders.org\n",
+    "created" : 1514916336860.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1044127535",
+    "id" : "EA80BB7C",
+    "lastKnownWriteTime" : 1514916356,
+    "last_content_update" : 1514916356547,
+    "path" : "C:/Users/mevans/repos/TX_priorities/www/_site.yml",
+    "project_path" : "www/_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "p, li {\n  font-size: larger;\n  font-family: \"Open Sans\";\n  font-weight: 300;\n}\n\nh1 {\n  font-size: 36px;\n  font-family: \"Garamond\";\n  font-weight: 700;\n  margin-top: 0 !important;\n}\n\nh2 {\n  background-color: #1a1a1a;\n  border-radius: 3px;\n  color: #fff;\n  font-size: 30px;\n  font-family: \"Garamond\";\n  font-weight: 600;\n  padding: 5px;\n}\n\nh3 {\n  background-color: #d9d9d9;\n  border-radius: 3px;\n  font-size: 24px;\n  font-family: \"Garamond\";\n  font-weight: 500;\n  padding: 5px !important;\n  margin-top: 0 !important;\n}\n\ncode {\n  font-size: larger;\n  font-family: \"Source Code Pro\";\n}\n\n.row {\n  padding-top: 20px;\n  padding-right: 15px;\n  padding-left:15px;\n}\n\n.tocify {\n  border-radius: 2px;\n  font-size: large;\n  font-family: \"Garamond\";\n  font-weight: 500;\n}\n\n.list-group-item.active,\n.list-group-item.active:focus,\n.list-group-item.active:hover {\n  background-color: #0E3670;\n  border-color: #0E3670;\n}\n\n.header-panel {\n  background-color: #2d2d86;\n    height: 144px;\n  position: relative;\n  z-index: 2;\n}\n\n.header-panel div {\n    position: static;\n    height: 100%;\n}\n\n.header-panel h1 {\n    color: #FFF;\n    /*font-size: 20px;*/\n    /*font-weight: 400;*/\n    position: absolute;\n    bottom: 10px;\n    padding-left: 35px;\n}\n\n.pages > div {\n    padding: 0 5px;\n    padding-top: 64px;\n    margin: 0;\n}\n\nimg.image-thumb {\n    width: 400px;\n}\n\na {\n  color: #2d2d86;\n  font-weight: 600;\n}\n\n.note {\n  font-size: small;\n}\n\n.return {\n  font-weight: bold;\n}\n\n.title {\n  font-family: \"Open Sans\";\n  font-size: 28pt;\n  font-weight: 800;\n  padding-top: 20px;\n}\n\n.caption {\n  font-style: italic;\n  padding-bottom: 20px;\n  padding-top: 10px;\n  padding-right: 5px;\n}\n\n.figure-caption {\n  padding-bottom: 20px;\n}\n\n.tocify-item .list-group-item:not(:active) {\n  background-color: #ffcc00;\n}\n\n.datatables.html-widget.html-widget-static-bound {\n  width: 100% !important;\n  height: auto !important;\n  padding-bottom: 20px;\n}\n\ntable {\n  width: 100% !important;\n  height: auto;\n}\n\n.footnotes {\n  font-size: 12px;\n}\n\n.abstract{\n  background-color: rgba(0, 104, 255, 0.1);\n  font-family: Helvetica, arial, sans-serif;\n  padding-right: 10px;\n  padding-left: 10px;\n}\n\n.navbar {\n  box-shadow: 0 2px 4px -1px rgba(0,0,0,0.25);\n}\n\nimg{\n  max-width: 100%;\n}",
+    "created" : 1514920233867.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3141287033",
+    "id" : "1ED268B0",
+    "lastKnownWriteTime" : 1514909877,
+    "last_content_update" : 1514909877,
+    "path" : "C:/Users/mevans/repos/TX_priorities/www/custom.css",
+    "project_path" : "www/custom.css",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

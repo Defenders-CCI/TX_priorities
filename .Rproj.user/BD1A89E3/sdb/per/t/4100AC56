@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(dplyr)\nlibrary(DT)\nlibrary(plotly)\nlibrary(scales)\nlibrary(shiny)\nlibrary(shinyjs)\nlibrary(shinyBS)\n\ncounty_data <- readRDS(file = \"data/US_counties_attrib.rds\")\ncounties <- readRDS(file = 'data/ESA_counties_2017-12-27.rds')\nload(\"data/data.RData\")\nTX_species$common_name <- as.character(TX_species$common_name)\nTX_species$scientific_name <- as.character(TX_species$scientific_name)\nTX_species$federal_status <- factor(TX_species$federal_status,\n                                    levels = c(\"Not listed\",\n                                               \"Delisted\",\n                                               \"Proposed Threatened\",\n                                               \"Proposed Endangered\",\n                                               \"Candidate\",\n                                               \"Endangered, Proposed for Delisting\",\n                                               \"Threatened\",\n                                               \"Endangered\"))\nTX_species$rpn <- factor(TX_species$rpn, levels = c(\"1\", \"1C\",\n                                                    \"2\", \"2C\",\n                                                    \"3\", \"3C\",\n                                                    \"7\", \"7C\",\n                                                    \"8\", \"8C\",\n                                                    \"9\", \"9C\",\n                                                    \"13\", \"13C\",\n                                                    \"4\", \"4C\",\n                                                    \"5\", \"5C\",\n                                                    \"6\", \"6C\",\n                                                    \"10\", \"10C\",\n                                                    \"11\", \"11C\",\n                                                    \"12\", \"12C\",\n                                                    \"14\", \"UNK\", \"\"))\ncounties$county_fips <- as.numeric(counties$county_fips)\n\ncounty_sums <- select(county_data, GEOID, ALAND)%>%\n  right_join(counties, by = c(\"GEOID\" = \"county_fips\"))%>%\n  filter(state_name == 'Texas')%>%\n  group_by(scientific_name, common_name)%>%\n  summarise(area = sum(ALAND))\n\nTX_species$Area <- unlist(lapply(1:nrow(TX_species), function(x){\n  area <- ifelse(TX_species$scientific_name[x] %in% county_sums$scientific_name,\n                 county_sums$area[county_sums$scientific_name == TX_species$scientific_name[x]],\n                 ifelse(TX_species$common_name[x] %in% county_sums$common_name,\n                        county_sums$area[county_sums$common_name == TX_species$common_name[x]], NA))\n  return(area)\n})\n)\n\nTX_species <- left_join(TX_species, county_sums, by = \"scientific_name\")\n\npossible <- expand.grid(1/(1:nrow(TX_species)),\n                        c(50,0), c(20,0), c(20,0), c(10,0), c(10,0), c(30,0))%>%\n  dplyr::mutate(score = Var1*(Var2+Var3+Var4+Var5+Var6+Var7))\n\nNUM_PAGES <- 2",
+    "created" : 1514907091747.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1916426864",
+    "id" : "4100AC56",
+    "lastKnownWriteTime" : 1514923885,
+    "last_content_update" : 1514923885107,
+    "path" : "C:/Users/mevans/repos/TX_priorities/global.R",
+    "project_path" : "global.R",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
