@@ -58,11 +58,12 @@ ui <- fluidPage(
               "The following questions are designed to evaluate how directly proposed research will inform conservation actions."),
              br(),
              div(style = 'background-color: rgba(255, 127, 14, 0.3);
-                          padding-top:5px;
-                          padding-bottom:5px;
-                          padding-right:5px;
-                          padding-left:5px',
-                 p(em("Note: These questions and their weights are examples for demonstration.  The Texas CPO should come up with questions it thinks are most relevant to selecting research projects consistent with the CPO's goals."))
+			  border-radius: 3px;
+                          padding-top:10px;
+                          padding-bottom:10px;
+                          padding-right:10px;
+                          padding-left:10px',
+                 p(id='demo_note', em("Note: These questions and their weights are examples for demonstration.  The Texas CPA should come up with questions it thinks are most relevant to selecting research projects consistent with the CPA's goals."))
              )
       ),
       column(6, 
@@ -100,9 +101,10 @@ ui <- fluidPage(
         choiceNames = list("Yes", "No"), choiceValues = list(10, 0), selected = (0), width = '100%'
       ),
       div(style = 'background-color: rgba(31, 119, 180, 0.3);
-          padding-top:5px;
-          padding-bottom:5px;
-          padding-left:5px',
+          border-radius: 10px;
+	  padding-top:10px;
+          padding-bottom:10px;
+          padding-left:10px',
           h4(em(textOutput('score')))
       )
     ),
